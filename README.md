@@ -3,6 +3,8 @@
 > **Good food. Better prices. Less waste.**  
 > A demand-first surplus food matching platform connecting price-conscious locals with restaurant surplus meals before they go to waste.
 
+🔗 **Live Deployment:** [https://drop-pool-mvp.vercel.app](https://drop-pool-mvp.vercel.app)
+
 ## ✨ Features
 - **Demand-First Matching**: Customers share what they're looking for, budget, distance, and pickup window; requests group into local demand pools.
 - **Merchant Surplus Offers**: Restaurants and cafes view real-time privacy-safe local demand and publish eligible surplus inventory.
